@@ -1,7 +1,9 @@
-Hello! Thank you for stopping by my GitHub page. My name is Lola Lewis, and I’m a senior at Santa Clara University, studying Finance and Business Analytics, with an expected graduation in March 2025. I’ve created this page to showcase projects that reflect my academic and practical experiences, particularly in financial modeling and industry/company evaluation.
+Hello! Thanks for stopping by my GitHub page. I’m Lola Lewis, a senior at Santa Clara University studying Finance and Business Analytics, graduating in March 2025.
 
-These projects include my work with the Santa Clara Investment Fund, where I contributed to in-depth financial analyses and industry research, as well as class projects that further developed my technical and analytical skills. Through these experiences, I’ve gained proficiency in modeling, data analysis, and strategic evaluation skills.
+My passion for investing started in high school when I wanted to put my money to work and began investing in stocks. This experience sparked my interest in learning how companies operate, which carried through into college. I’ve particularly enjoyed diving deeper into this interest through classes like Financial Management, Investments, and Business Valuation.
 
-I always like to meet new people. Please feel free to reach out and chat.
+In college, I joined the Santa Clara Investment Fund, the most prestigious investment group on campus. I’m currently working in the Technology (TMT) sector of the fund, where I’ve had the opportunity to develop investment theses, create pitch decks, and hone my valuation skills. These experiences have allowed me to combine my enjoyment for finance with a hands-on approach to analyzing industries and companies.
+
+I created this GitHub to showcase the projects that reflect my journey so far in finance and analytics. Feel free to explore my work, and reach out if you’d like to connect!
 
 Lola.23.lewis@gmail.com
