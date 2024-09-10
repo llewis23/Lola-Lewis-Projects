@@ -1,1 +1,1 @@
-# Lola-Lewis-Projects
+Hello! Thank you for stopping by my GitHub page. 
